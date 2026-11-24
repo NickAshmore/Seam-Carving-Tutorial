@@ -1,0 +1,5 @@
+min_previous = np.min(M[i-1, left:right])
+
+j = np.argmin(M[-1])
+
+mask[np.arange(rows), seam] = False
