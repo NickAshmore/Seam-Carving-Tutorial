@@ -97,7 +97,7 @@ Delete the circled pixel from each row and the 5×5 map becomes 5×4. On a real 
 
 ```
 tutorial/
-├── seam_carving_tutorial.ipynb     # Student version: fill in the #TODO lines in Section 4
+├── seam_carving_student.ipynb     # Student version: fill in the #TODO lines in Section 4
 ├── seam_carving_solution.ipynb     # Complete, working version
 ├── seam_carving_solutions.txt      # The exact #TODO solutions
 ├── images/            				# Input images used by the notebooks
